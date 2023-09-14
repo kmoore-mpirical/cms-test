@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "Example Lab",
+  "custom-object": {
+    "custom-line": "Some text goes to summarise the lab",
+    "custom-text": "This is where the actual lab content will be"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "list item"
+    }
+  ]
+}
