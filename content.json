@@ -1,8 +1,12 @@
 {
-  "custom-field": "Example Lab",
-  "custom-object": {
-    "custom-line": "Some text goes to summarise the lab",
-    "custom-text": "This is where the actual lab content will be"
+  "lab-title": "Example Lab",
+  "lab-snippet": "Snippet text here",
+  "lab-image":"Image url here",
+  "lab-category":"Category",
+  "lan-author": "K Moore",
+  "lab-content": {
+    "lab-body": "Some text goes to summarise the lab"
+    
   },
   "custom-list": [
     {
